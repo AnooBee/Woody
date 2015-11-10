@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Woody">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="WoodstockWeb.war" deploy-path="/" handle="module:/resource/WoodstockWeb/WoodstockWeb">
+            <dependent-object>Module_1434572847703</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Woodstock.jar" deploy-path="/" handle="module:/resource/Woodstock/Woodstock">
+            <dependent-object>Module_1434572847845</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
